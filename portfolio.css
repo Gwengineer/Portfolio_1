@@ -1,0 +1,284 @@
+body {
+  background-color:  #033E97;
+  margin: 0;
+  width: 100%;
+ 
+}
+
+#about {
+  height: 1300px;
+
+ 
+}
+
+#dashboard-design {
+  height:500px;
+  background-color: white;
+  
+  
+}
+
+#brand-design {
+  height: 700px;
+
+
+}
+
+#other-works {
+  height: 700px;
+  background-color: white;
+}
+
+#contact {
+  height: 700px;
+}
+
+.first-container {
+  display: flex;
+  flex-wrap: nowrap;
+  
+}
+#vl1{
+  height: 100px;
+  border-right: 4px solid white;
+  position: absolute;
+  margin-top: 100px;
+  width: 50px;
+  margin-left:10px;
+  
+}
+
+svg {
+  margin-top: 15px;
+  margin-left: 40px;
+  width:80px ;
+  height: 40px;
+}
+.mid-part {
+  width: 500px;
+  margin-left: 200px;
+}
+
+p {
+  color: white;
+  font-family:poppins ;
+}
+
+.intro {
+  margin-top: 100px;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.gwen-underline {
+  margin-left: 100px;
+  margin-top: -70px;
+  width: 100px;
+  height: 50px;
+}
+
+.about-me {
+  width: 350px;
+  line-height: 25px;
+  font-size: 20px;
+}
+
+.talk {
+  font-size: 20px;
+  font-weight:bold ;
+}
+
+.talk-underline{
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.blue-circle {
+  width: 280px;
+  background-color: rgb(57, 173, 212);
+  height: 280px;
+  margin-top: 100px;
+  border-radius: 140px;
+  margin-left: 150px;
+}
+
+img {
+  width: 400px;
+  margin-left: 80px;
+  margin-top: -230px;
+}
+ .proj {
+  margin-top: 70px;
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 40px;
+ }
+
+.gray-circle {
+  width: 400px;
+  background-color: rgb(57, 173, 212);
+  height:400px;
+  margin-top: 100px;
+  border-radius: 200px;
+  margin-left: 40px;
+
+}
+
+.iphones {
+  width:300px;
+  margin-top: 30px;
+
+}
+
+.plantify-div {
+  width: 492px;
+  margin-left: 250px;
+}
+
+.plantify {
+  margin-top: 150px;
+  margin-left: 100px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.mobile-app {
+  margin-left: 100px;
+  font-size: px;
+}
+
+.view {
+  margin-left: 100px;
+  margin-top: 50px;
+  font-size: 22px;
+}
+
+.under-view {
+  margin-left: 100px;
+  margin-top: -10px;
+  width: 120px;
+}
+
+#dashboard-design p {
+  color: black;
+}
+
+.left-about {
+  margin-top: 500px;
+}
+.second-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dash {
+  font-size: 30px;
+  font-weight: bold;
+ margin-top: 80px;
+  margin-left: 40px;
+}
+
+.lorem {
+  margin-left: 40px;
+  width: 500px;
+  font-size: 18px;
+}
+
+.view-lorem {
+  margin-left: 40px;
+  margin-top: 40px;
+  font-size: 25px;
+}
+
+.lorem-under-view {
+  margin-left: 40px;
+  margin-top: -0px;
+  width: 120px;
+}
+
+.macbook-background {
+  height: 340px;
+  width: 340px;
+  border-radius: 170px;
+  background-color: rgb(181, 122, 237);
+  margin-left: 250px;
+  margin-top: 80px;
+
+}
+
+.macbook-background img {
+  margin-bottom: -380px;
+  margin-left: -50px;
+  height: 400px;
+  width: 483px;
+  
+}
+
+#brand-design img {
+    margin-top: 80px;
+    justify-content: center;
+    height: 450px;
+    width: 450px;
+    border-radius: 495px;
+    background: #C2D0FF;
+}
+
+.brand {
+  margin-left: 70px;
+  margin-top:140px;
+  font-size: 30px;
+}
+
+.lorem2 {
+  margin-top: 80px;
+  width: 500px;
+  margin-left: 70px;
+}
+
+.view3 {
+  margin-left: 70px;
+  margin-top: 40px;
+  font-size: 25px;
+}
+
+#brand-design svg {
+  width: 120px;
+  margin-left: 70px;
+  margin-top: -20px;
+}
+
+#other-works p {
+  color: black;
+}
+
+.main-other-works {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 100px;
+  font-weight: bold;
+}
+
+#contact p{
+  margin-left: 40px ;
+}
+
+.avail {
+  width: 440px;
+  font-size: 30px;
+}
+
+.lorem3 {
+  width: 450px;
+}
+
+.touch {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#contact img {
+  margin-top: 50px;
+  width: 500px;
+  height: 400px;
+}
